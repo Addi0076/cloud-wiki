@@ -134,7 +134,7 @@
 * [🧩 Clients & Modifikationen](allgemein/clients-and-modifikationen/README.md)
   * [Litematica](allgemein/clients-and-modifikationen/litematica.md)
 * [❗ Beschwerden über Spieler / Beweismaterial](allgemein/beschwerden-ueber-spieler-beweismaterial.md)
-* [🙏 Strafe ausheben / Entbannung](allgemein/strafe-ausheben-entbannung.md)
+* [🙏 Strafe aufheben / Entbannung](allgemein/strafe-aufheben-entbannung.md)
 * [😠 Das Scamming](allgemein/das-scamming/README.md)
   * [😡 Vor Spielern warnen](allgemein/das-scamming/vor-spielern-warnen.md)
 * [🚨 Account-Diebstahl / Phishing](allgemein/account-diebstahl-phishing.md)

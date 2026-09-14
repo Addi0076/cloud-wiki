@@ -8,7 +8,7 @@ Der Spawn ist das erste Grundstück auf dem du dem Server beitrittst. Hier finde
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-Die GrieferGames Cloud hat mehrere Spawn-Server (aktuell 9), welche alle den selben Spawn haben, mit den selben funktionen. Beim Joinen und bei der Nutzung von `/spawn` wirst du auf einen Spawn teleportiert.&#x20;
+Die GrieferGames Cloud hat mehrere Spawn-Server (aktuell 9), welche alle den selben Spawn haben, mit den selben funktionen. Beim Joinen und bei der Nutzung von `/spawn` wirst du auf einen Spawn teleportiert.
 
 Je nach Auslastung gelangst du auf den Hauptspawn (der Region 100-100) oder auf einen der 8 Nebenspawns. Über die Funktion `/spawn menu` (Rangfeature) kannst du auch gezielt den Spawn wechseln.
 
@@ -38,9 +38,9 @@ Ein Stück weiter befinden sich drei Portale, welche dir ein Menü öffnen:
 
 Läufst du zwischen den Portalen auf der linken Seite vorbei, findest du einen Bäcker, welcher dir kostenloses Brot zur Verfügung stellt, damt du nicht hungern musst.
 
-## Süden - NPC Marktplatz&#x20;
+## Süden - NPC Marktplatz
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 Im Süden befindet sich der Marktplatz mit seinen NPCs, die dir Zugriff auf verschiedene Funktionen auf GrieferGames geben.
 

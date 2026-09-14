@@ -19,10 +19,10 @@ Ihr bekommt standardmäßig alle Auktionen angezeigt, aufsteigend nach der Restz
 Hier habt ihr nun mehrere Optionen:
 
 * **Klick auf ein Item:** Öffnet die Auktion dieses Items
-* ![](<../../.gitbook/assets/image (67).png>)**Auktionshistorie:** Zeigt alle ausgelaufenen Auktionen der letzten 30 Tage
+* ![](<../../.gitbook/assets/image (65).png>)**Auktionshistorie:** Zeigt alle ausgelaufenen Auktionen der letzten 30 Tage
 * ![](<../../.gitbook/assets/image (68).png>) **Meine beobachteten Auktionen:** Hier befinden sich alle Auktionen, bei denen ihr geboten habt
-* ![](<../../.gitbook/assets/image (70).png>)**Filter:** Hier können bestimmte Materialien oder Kategorien gefiltert werden
-* ![](<../../.gitbook/assets/image (72).png>)**Eigene Auktionen:** Hier befinden sich eure eigenen Auktionen und hier können neue Auktionen erstellt werden.
+* ![](<../../.gitbook/assets/image (69).png>)**Filter:** Hier können bestimmte Materialien oder Kategorien gefiltert werden
+* ![](<../../.gitbook/assets/image (71).png>)**Eigene Auktionen:** Hier befinden sich eure eigenen Auktionen und hier können neue Auktionen erstellt werden.
 
 ## Bieten
 

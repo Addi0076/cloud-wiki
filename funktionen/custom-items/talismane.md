@@ -2,7 +2,7 @@
 
 Talismane sind besondere Totems, die deinem Spieler verschiedene Boni und Fähigkeiten verleihen, solange sie in der Offhand gehalten werden, und dich beim Tod wie ein Totem schützen, bevor sie verschwinden.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (2) (1).png" alt=""></p>
+<div align="center"><img src="../../.gitbook/assets/unknown (2) (1).png" alt=""></div>
 
 ## Übersicht der Talismane
 
@@ -10,7 +10,7 @@ Talismane sind besondere Totems, die deinem Spieler verschiedene Boni und Fähig
 
 **Fokus:** Mobilität & Bewegung
 
-![](<../../.gitbook/assets/unknown (1) (1) (1).png>)
+![](<../../.gitbook/assets/unknown (2) (1).png>)
 
 Erhöht deine Bewegungsgeschwindigkeit auf Land und Wasser und ermöglicht es dir, 2 Blöcke hochzugehen, ohne zu springen.
 

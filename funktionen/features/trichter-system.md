@@ -26,7 +26,7 @@ Dieses Menü bietet verschiedene Einstellungsoptionen, welche im Folgenden erlä
 
 ### Item-Anzahl einstellen
 
-Mit dem Button <img src="../../.gitbook/assets/image (23) (1) (1).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden **Standardeinstellung:** 12 Items
+Mit dem Button <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden **Standardeinstellung:** 12 Items
 
 Folgende Optionen stehen zur Verfügung:
 
@@ -101,7 +101,7 @@ Dieser Modus ermöglicht es, dass Gegenstände auf mehrere Anlagen aufgeteilt we
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Diese Option ist zum Verteilen von Items in verschiedene Anlagen. Das Feature ist nicht zur freien Verwendung für alle möglichen Konstruktionen. \
+Diese Option ist zum Verteilen von Items in verschiedene Anlagen. Das Feature ist nicht zur freien Verwendung für alle möglichen Konstruktionen.\
 Zur Freigabe von anderweitiger Verwendung, erfrage eine Einzelfallgenehmigung im Ticket-System.
 {% endhint %}
 
