@@ -107,7 +107,7 @@
 * [🪑 Dekorationen](funktionen/dekorationen/README.md)
   * [🅱️ CustomBlocks](funktionen/dekorationen/customblocks.md)
 * [⭐ Events](funktionen/events.md)
-  * [Angel-Event](funktionen/events/angel-event.md)
+  * [🎣 Angel-Event](funktionen/events/angel-event.md)
 * [🦾 Mechanik-Änderungen](funktionen/mechanik-aenderungen/README.md)
   * [Bergungskompass](funktionen/mechanik-aenderungen/bergungskompass.md)
   * [Pigman-Farmen](funktionen/mechanik-aenderungen/pigman-farmen.md)
@@ -128,9 +128,17 @@
 
 ## ALLGEMEIN
 
+* [📜 Regelwerk](allgemein/regelwerk.md)
+* [💡 Vorschläge](allgemein/vorschlage.md)
+* [Fehlermeldungen](allgemein/fehlermeldungen.md)
 * [🧩 Clients & Modifikationen](allgemein/clients-and-modifikationen/README.md)
   * [Litematica](allgemein/clients-and-modifikationen/litematica.md)
 * [❗ Beschwerden über Spieler / Beweismaterial](allgemein/beschwerden-ueber-spieler-beweismaterial.md)
+* [🙏 Strafe ausheben / Entbannung](allgemein/strafe-ausheben-entbannung.md)
+* [😠 Das Scamming](allgemein/das-scamming/README.md)
+  * [😡 Vor Spielern warnen](allgemein/das-scamming/vor-spielern-warnen.md)
+* [🚨 Account-Diebstahl / Phishing](allgemein/account-diebstahl-phishing.md)
+* [🔐 GrieferGames Auth](allgemein/griefergames-auth.md)
 * [📊 Das Vote-System](allgemein/das-vote-system.md)
 * [🎬 Für Content Creator](https://wiki.griefergames.net/erweiterte-features/fuer-content-creator)
 

@@ -2,7 +2,7 @@
 description: Petri Heil
 ---
 
-# Angel-Event
+# 🎣 Angel-Event
 
 Ein öfter wiederkehrendes Event auf GrieferGames ist das Angel-Event.
 
