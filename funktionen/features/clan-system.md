@@ -7,7 +7,7 @@ Ein Clan besteht aus einem Clan-Leiter und mindestens einem Clan-Mitglied. Clan-
 Die maximale Anzahl von Mitgliedern des Clans ist abhängig vom [Rang des Clan-Leiters](https://wiki.griefergames.live/funktionen/grundbefehle/range) und kann mit speziellen Items zusätzlich erhöht werden.
 
 {% hint style="info" %}
-Jeder Spieler kann einen Clan für 100.000$ erstellen.&#x20;
+Jeder Spieler kann einen Clan für 100.000$ erstellen.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -23,7 +23,7 @@ Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercod
 | /clan invite \<NAME>              | Lade einen Spieler in den Clan ein         |                                                                                                                           |
 | /clan kick \<NAME>                | Entferne einen Spieler aus dem Clan        |                                                                                                                           |
 | /clan leave                       | Verlasse deinen Clan                       |                                                                                                                           |
-| /clan einzahlen \<SUMME> \<GRUND> | Zahle Geld auf das Clan-Konto ein          | <img src="../../.gitbook/assets/image (101).png" alt="" data-size="original">![](<../../.gitbook/assets/image (102).png>) |
+| /clan einzahlen \<SUMME> \<GRUND> | Zahle Geld auf das Clan-Konto ein          | <img src="../../.gitbook/assets/image (100).png" alt="" data-size="original">![](<../../.gitbook/assets/image (102).png>) |
 | /clan auszahlen \<SUMME> \<GRUND> | Hebe Geld von dem Clan-Konto ab            | ![](../../.gitbook/assets/RWawaoI.png)![](../../.gitbook/assets/FhR5NId.png)                                              |
 | /clan moneylog                    | Zeigt die Historie der Clan-Bank an        | ![](<../../.gitbook/assets/image (103).png>)                                                                              |
 | /clan guthaben                    | Zeigt das Guthaben der Clan-Bank an        | ![](<../../.gitbook/assets/image (82).png>)                                                                               |

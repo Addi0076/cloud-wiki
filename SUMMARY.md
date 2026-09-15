@@ -11,7 +11,8 @@
 ## Funktionen
 
 * [🏙️ Spielmodus Citybuild](funktionen/spielmodus-citybuild/README.md)
-  * [🚩 Spielstart und erste Schritte](funktionen/spielmodus-citybuild/spielstart-und-erste-schritte.md)
+  * [🚩 Spielstart und erste Schritte](funktionen/spielmodus-citybuild/spielstart-und-erste-schritte/README.md)
+    * [❔ Hilfe-System](funktionen/spielmodus-citybuild/spielstart-und-erste-schritte/hilfe-system.md)
   * [👨‍🔬 Der Spawn](funktionen/spielmodus-citybuild/der-spawn.md)
   * [🌳 Die Farmwelten](funktionen/spielmodus-citybuild/die-farmwelten.md)
 * [⚙️ Befehlsübersicht](funktionen/grundbefehle/README.md)
@@ -30,7 +31,6 @@
     * [Supreme-Rang](funktionen/grundbefehle/range/supreme-rang.md)
     * [Hero-Rang](funktionen/grundbefehle/range/hero-rang.md)
 * [🚧 Ressourcenpaket](funktionen/ressourcenpaket.md)
-* [❔ Hilfe-System](funktionen/hilfe-system.md)
 * [🏡 Grundstücke](funktionen/grundstuecke/README.md)
   * [Flags setzen](funktionen/grundstuecke/flags-setzen/README.md)
     * [Fly+ Flag](funktionen/grundstuecke/flags-setzen/fly+-flag.md)

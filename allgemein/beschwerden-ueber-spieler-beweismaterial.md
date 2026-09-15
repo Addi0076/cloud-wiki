@@ -17,9 +17,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# ❗ Beschwerden über Spieler/ Beweismaterial
+# ❗ Beschwerden über Spieler / Beweismaterial
 
 Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://griefergames.cloud/regelwerk) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
 
@@ -110,15 +112,3 @@ Nutzt ihr eine AMD-Grafikkarte, könnt ihr über die AMD Adrenaline-Software ebe
 
 Alternativ könnt ihr auch jedes andere Aufnahmeprogramm verwenden, welches den kompletten Spielinhalt unverändert aufzeichnet.\
 Unsere Empfehlung hierfür ist das einsteigerfreundliche und kostenfreie [OBS Studio](https://obsproject.com/de).
-
-
-
-<details>
-
-<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
-
-{% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [1.8 Wiki Seite](https://wiki.griefergames.net/griefergames-allgemein/spieler-melden)_._
-{% endhint %}
-
-</details>
