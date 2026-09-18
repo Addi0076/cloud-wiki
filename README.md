@@ -8,13 +8,13 @@ description: Herzlich Willkommen im GrieferGames Cloud Wiki
 
 ## Über GrieferGames
 
-GrieferGames ist ein Citybuild-Server-Netzwerk aus dem deutschen Raum. Es werden zwei verschiedene Minecraft-Versionen angeboten. Zum einen das 1.8-Netzwerk, welches bereits seit mehr als 10 Jahren existiert und das [Cloud-Netzwerk](https://wiki.griefergames.live/), welches auf der neuesten Minecraft-Version läuft.
+GrieferGames ist ein Citybuild-Server-Netzwerk aus dem deutschen Raum. Es werden zwei verschiedene Minecraft-Versionen angeboten. Zum einen das 1.8 Netzwerk, welches bereits seit mehr als 10 Jahren existiert und das [Cloud Netzwerk](https://wiki.griefergames.live/), welches auf der neuesten Minecraft-Version läuft.
 
 ***
 
 ## Das Wiki
 
-In diesem Wiki findest du hauptsächlich Informationen zum 1.8-Netzwerk und den Features des 1.8-Netzwerks. Weitere Tipps und Anregungen findest du auf unserem [Discord-Server](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv).&#x20;
+In diesem Wiki findest du hauptsächlich Informationen zum Cloud Netzwerk und den Features des Cloud Netzwerks. Weitere Tipps und Anregungen findest du auf unserem [Discord-Server](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv).
 
 ### Inhalte zum Wiki beitragen
 
