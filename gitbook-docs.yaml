@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: GrieferGames Cloud Wiki
+  structure:
+    - type: space
+      key: cloud-wiki
+      title: GrieferGames Cloud Wiki
+      path: cloud-wiki
+      default: true
+      content:
+        directory: .
