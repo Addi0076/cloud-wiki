@@ -1,4 +1,4 @@
-# 👥 Clan-System
+# Clan-System
 
 In einem Clan kann man sich mit anderen Spielern zusammen tun, um gemeinsam zu spielen, sich gegenseitig zu unterstützen und gemeinsame Ziele zu erreichen.
 
@@ -11,7 +11,9 @@ Jeder Spieler kann einen Clan für 100.000$ erstellen.
 {% endhint %}
 
 {% hint style="warning" %}
-Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercodes) zählen nur, wenn der Clan-Leiter diese genutzt hat.
+Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercodes) werden am Clan hinterlegt und können nicht in einen neuen Clan mitgenommen werden.\
+\
+Die Items können von jedem Mitglied des Clans eingelöst werden.
 {% endhint %}
 
 ## Clan-Befehle

@@ -1,4 +1,4 @@
-# 💬 Das Chat-System
+# Das Chat-System
 
 Auf dem Server kannst du auf verschiedene Arten mit deinen Mitspielern schreiben.
 
@@ -39,7 +39,7 @@ Mit `/msg <Spieler> <Nachricht>` kannst du mit jedem Spieler auf dem Citybuild-S
 Das heißt, dass nur dieser Spieler die Nachricht sieht.\
 Dieser Spieler kann dir dann auf dieselbe Weise wieder eine Nachricht zurück schreiben.
 
-Mit dem Befehl `/r <Nachricht>` antwortest du der letzten Person, mit welcher du privat geschrieben hast, direkt.&#x20;
+Mit dem Befehl `/r <Nachricht>` antwortest du der letzten Person, mit welcher du privat geschrieben hast, direkt.
 
 {% hint style="warning" %}
 Sollte dich in der Zeit aber ein anderer Spieler anschreiben, da du vielleicht mit zwei Spielern gleichzeitig schreibst, bekommt dieser Spieler die Nachricht, da dieser Spieler die letzte Person ist, welche mit dir privat geschrieben hat.
