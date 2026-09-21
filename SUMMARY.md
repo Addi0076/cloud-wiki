@@ -73,6 +73,7 @@
   * [Verfluchter Stab](funktionen/custom-items/verfluchter-stab.md)
   * [Versunkene Kanone](funktionen/custom-items/versunkene-kanone.md)
 * [❤️ Features](funktionen/features/README.md)
+  * [Abschließbare Kiste](funktionen/features/abschliessbare-kiste.md)
   * [Adventure-System](funktionen/features/adventure-system.md)
   * [Allay Lieferdienst](funktionen/features/allay-lieferdienst.md)
   * [Angebotszug](funktionen/features/angebotszug.md)
