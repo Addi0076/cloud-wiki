@@ -22,6 +22,20 @@ Zusätzlich dazu antwortet Alfred immer dann, wenn er sich angesprochen fühlt. 
 
 Wenn man direkt etwas von Alfred wissen möchte, kann man ihn am besten über `/msg Alfred` anschreiben. Dann antwortet er auf jeden Fall per Direktnachricht auf die gestellte Frage.
 
+### Alfred ausblenden
+
+Wenn ihr Alfreds Antworten im Chat nicht sehen möchtet, schaltet ihr ihn in den [Einstellungen](../funktionen/spielmodus-citybuild/spielstart-und-erste-schritte/hilfe-system.md) aus. Das Menü öffnet ihr mit `/einstellungen`.
+
+1. Öffnet `/einstellungen`.
+2. Klickt auf den Eintrag zu Alfred.
+3. Ein weiterer Klick schaltet ihn wieder ein.
+
+Solange Alfred ausgeschaltet ist, seht ihr seine Nachrichten im Chat nicht mehr. Schreibt ihr ihm mit `/msg Alfred`, antwortet er euch weiterhin per Privatnachricht.
+
+{% hint style="info" %}
+Zwischen zwei Klicks liegt eine kurze Wartezeit. Ist sie noch nicht vorbei, kommt ein Hinweis im Chat.
+{% endhint %}
+
 ### Wann kann Alfred nicht helfen?
 
 Natürlich kann Alfred nur dann helfen, wenn er die Antwort auf die Frage kennt.
