@@ -75,6 +75,10 @@ Saisonale Kisten sind zeitlich begrenzt und üblicherweise zu bestimmten Jahresz
 
 Hier befinden sich in der Regel die wertvollsten Gewinne in der Kiste, wie zum Beispiel spezielle Sammler-Items.
 
+{% hint style="info" %}
+Aus den saisonalen Kisten kann man oft auch Admin-Items wie Endportalrahmen, Bedrock, Dracheneier und Barrieren bekommen. 
+{% endhint %}
+
 ## Der Angebotszug
 
 Der Angebotszug ist dein persönlicher Rabatt-Händler für alle Kistensorten.
