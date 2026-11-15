@@ -78,7 +78,7 @@ Der Radius kann ggf. durch weitere Rechte erweitert sein, z. B. auf die Simulati
 
 ### Mehrfachverbindungen
 
-Über die <img src="../../.gitbook/assets/image (29) (3) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Mehrfachverbindungen**</mark> können mehrere Endpunkte anhand von Materialien für den Trichter festgelegt werden.
+Über die ![](https://raw.githubusercontent.com/griefergames/cloud-wiki/master/.gitbook/assets/image%20%2829%29%20%283%29%20%281%29.png) **Mehrfachverbindungen** können mehrere Endpunkte anhand von Materialien für den Trichter festgelegt werden. Das Ziel kann in einem Umkreis von ca. 100 Blöcken gewählt werden.
 
 #### Übersicht über bestehende Verbindungen
 

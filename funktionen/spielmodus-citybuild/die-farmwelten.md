@@ -24,6 +24,10 @@ Im Farm-Menü wählst du, ob du in die **Overworld**, den **Nether** oder das **
 Ab dem [**Griefer-Rang**](../grundbefehle/range/griefer-rang.md) kann unter `/farm` auch der gewünschte Farm-Server gewählt werden. Bei jedem Server siehst du, wie viele **Spieler** gerade dort sind und wie seine **Auslastung** ist. Über „Farm-Server betreten“ kommst du weiterhin zur Wahl der Dimension mit automatischer Serverauswahl.
 {% endhint %}
 
+{% hint style="warning" %}
+Der Teleport zwischen Farmwelt und Plotwelt kann etwas mehr Zeit in Anspruch nehmen, da du dafür den Unterserver wechselst. Oft dauert das aber nur etwa 1-2 Sekunden.
+{% endhint %}
+
 Damit du erkennst, in welcher Farmwelt du dich befindest, wird in der Tabliste über den Spielern die aktuelle Region angezeigt.
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Anzeige der Region in der Tabliste</p></figcaption></figure>

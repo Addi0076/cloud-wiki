@@ -13,6 +13,28 @@ Die allgemeinen Grundstücksbefehle starten mit `/p`. Zusätzlich gibt es noch e
 Mit einem **Plot-Clear-Gutschein** leerst du dein Grundstück, ohne dass der Merge getrennt wird. Stelle dich dafür auf dein Grundstück und benutze den Gutschein.
 {% endhint %}
 
+## [#](#grundbefehle)Limits
+
+Über `/limits` kann man sehen, wann bestimmte Limits greifen. Pro Grundstück stehen zur Verfügung:
+
+- 50 Feindliche Monster
+
+- 50 Freundliche Monster
+
+- 75 Weitere Entities
+
+- 25 Fahrzeuge
+
+- Alle Entities 150
+
+- 2500 Redstone-Ticks pro Sekunde
+
+Diese Limits erhöhen sich bei Merges durch die jeweilige Anzahl der Grundstücke.
+
+## [#](#limits)Spawner
+
+Spawner sind auf Grundstücken nicht verfügbar und haben dort keinen Effekt. Es spawnen also keine Mobs. Es gibt auf dem Cloud-Netzwerk nur den [Farmwelt-Spawner](https://items.griefergames.net/#Farmwelt-Spawner), der einmalig in der Farmwelt platzierbar ist. Es gibt also keine Möglichkeit für (AFK-)Spawner-Farmen auf Grundstücken.
+
 ## Alte 1.16-Grundstücke anpassen
 
 Mit der Cloud-Version 1.19 sind neue Grundstückstiefen durch Minecraft hinzugekommen. Diese sind ebenfalls in den Citybuild-Regionen verfügbar. Wenn man noch ein altes Grundstück aus der Version 1.16 besitzt, bei dem sich die Bedrockschicht auf Höhe 0 befindet, kann man sein Grundstück mit dem Befehl `/heightfix` auf die neue Tiefe anpassen.

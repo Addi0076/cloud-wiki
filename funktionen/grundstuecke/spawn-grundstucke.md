@@ -28,7 +28,9 @@ Spawn-Grundstücke können nicht wie andere Grundstücke mit `/p claim` erhalten
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Spawn-GS-Gutschein</p></figcaption></figure>
 
-Um ein Grundstück auf einem Spawn-Server zu erhalten, muss sich der Spieler auf dieses Grundstück stellen und einen **Spawn-GS-Gutschein** verwenden. Damit wird dem Spieler das Grundstück übergeben.
+Um ein Grundstück auf einem Spawn-Server zu erhalten, muss sich der Spieler auf dieses Grundstück stellen und einen **Spawn-GS-Gutschein** verwenden. Damit wird dem Spieler das Grundstück übergeben. 
+
+Für zur Spawn-GS Freigabe vorgemerkte Grundstücke funktioniert das über /spawnplot, um sich mit einem Gutschein zu registrieren - diese Grundstücke erkennt man an dem roten Redstoneblock-Rand und für die Registrierung ist es erforderlich, dass man seit bereits mindestens 4 Monate beim Bürgermeister auf der Cloud registriert ist. Das jeweilige Grundstück kann erst 2 Monate nach Erhalt übertragen werden, muss also selbst bebaut werden. 
 
 Diese Gutscheine können z. B. aus dem [Case-Opening](../features/case-opening.md) oder durch den Handel mit anderen Spielern erhalten werden.
 
