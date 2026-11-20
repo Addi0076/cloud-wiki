@@ -85,13 +85,19 @@ Der Angebotszug ist dein persönlicher Rabatt-Händler für alle Kistensorten.
 
 ![Der Angebotszug](../../.gitbook/assets/F925ED75-ED42-40E7-80D9-923FEF4A0BAA.png)
 
-Der Händler bringt wöchentlich 10 exklusive Angebote mit, die nur du hast.
+Der Händler bringt persönliche Angebote mit, die nur du hast. Bezahlt wird mit Kristallen. Zuerst ist nur das erste Angebot kaufbar, die weiteren erst danach in der gezeigten Reihenfolge.
 
-Jede Woche am Montag um 0:00 Uhr setzt sich der Zug zurück und ihr bekommt ganz neue Angebote.
+Alle **3 Wochen**, immer montags um **0:00 Uhr**, setzt sich der Zug für alle Spieler gleichzeitig zurück. Noch nicht gekaufte Angebote verfallen dann. Beim nächsten Öffnen bekommst du neue Angebote.
+
+Am Reset-Montag erscheint die Meldung im Chat um **0:00 Uhr**, **12:00 Uhr** und **20:00 Uhr**. An den Montagen dazwischen gibt es keine Reset-Meldung.
 
 ![Beispiel für ein Angebot im Angebotszug](../../.gitbook/assets/1CC6F614-9637-4659-913C-23439DCCF4B3.png)
 
-Den Angebotszug könnt ihr am Spawn direkt neben dem CaseOpening finden. Dort könnt ihr zunächst nur das erste Angebot kaufen, die restlichen erst danach in der gezeigten Reihenfolge.
+Den Angebotszug könnt ihr am Spawn direkt neben dem CaseOpening finden. Mit `/offertrain` öffnet ihr ihn von überall.
+
+{% hint style="warning" %}
+Nach dem Reset lassen sich alte Angebote nicht mehr kaufen, auch wenn das Menü noch offen war. Öffne den Angebotszug erneut, dann siehst du die neuen Angebote.
+{% endhint %}
 
 ## [#](#fragmente)Fragmente
 
