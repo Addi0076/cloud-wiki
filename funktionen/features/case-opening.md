@@ -63,12 +63,6 @@ Die Köpfe-Kiste kann ab dem [**Griefer-Rang**](../grundbefehle/range/griefer-ra
 
 Die MiniGame-Kiste kann nicht gekauft werden, sondern nur durch einen Sieg in einer öffentlichen Lobby der MiniGames gewonnen werden. Dabei hat jeder Spieler eine Abklingzeit und die Kiste wird nicht bei jedem Sieg vergeben. Prüfe also nach einem Sieg einer öffentlichen MiniGame-Lobby, ob du eine Kiste erhalten hast.
 
-### Die Platin-Kiste ![](<../../.gitbook/assets/image (169).png>)
-
-Die Platin-Kiste ist die Standardkiste in der Cloud. Diese kann ausschließlich über Kristalle oder als Gewinn einer anderen Kiste erhalten werden.
-
-Hier findest du neue Feature-Gegenstände, Funktions-Items und vieles mehr.
-
 ### Die saisonalen Kisten ![](<../../.gitbook/assets/image (172).png>) ![](<../../.gitbook/assets/image (174).png>) ![](<../../.gitbook/assets/image (175).png>) ![](<../../.gitbook/assets/image (176).png>)
 
 Saisonale Kisten sind zeitlich begrenzt und üblicherweise zu bestimmten Jahreszeiten oder Feiertagen verfügbar. Sie können nur in dieser Zeit gekauft werden. Das sind in der Regel die Winter-Kiste, die Frühlings-Kiste, die Sommer-Kiste und die (goldene) Herbst-Kiste.
@@ -89,8 +83,6 @@ Der Händler bringt persönliche Angebote mit, die nur du hast. Bezahlt wird mit
 
 Alle **3 Wochen**, immer montags um **0:00 Uhr**, setzt sich der Zug für alle Spieler gleichzeitig zurück. Noch nicht gekaufte Angebote verfallen dann. Beim nächsten Öffnen bekommst du neue Angebote.
 
-Am Reset-Montag erscheint die Meldung im Chat um **0:00 Uhr**, **12:00 Uhr** und **20:00 Uhr**. An den Montagen dazwischen gibt es keine Reset-Meldung.
-
 ![Beispiel für ein Angebot im Angebotszug](../../.gitbook/assets/1CC6F614-9637-4659-913C-23439DCCF4B3.png)
 
 Den Angebotszug könnt ihr am Spawn direkt neben dem CaseOpening finden. Mit `/offertrain` öffnet ihr ihn von überall.
@@ -106,8 +98,6 @@ Nach dem Reset lassen sich alte Angebote nicht mehr kaufen, auch wenn das Menü 
 <div align="center"><figure><img src="../../.gitbook/assets/unknown--1---1---1---1-.png" alt="Bild"><figcaption></figcaption></figure></div>
 
 Diese Fragmente haben immer eine bestimmte Chance, das beschriebene Item oder ein zufälliges Item aus einem Pool zu erhalten.
-
-Mit Glück erhält man die Belohnung aus dem Fragment, mit Pech verschwindet das Item.
 
 {% hint style="info" %}
 Fragmente müssen einzeln eingelöst werden.
