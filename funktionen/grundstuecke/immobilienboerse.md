@@ -10,14 +10,14 @@ Die Immobilienbörse öffnest du über einen NPC mit der Funktion **Immobilienb�
 
 ## Angebote ansehen
 
-Im Hauptmenü siehst du alle aktuellen Angebote. Auf jedem Angebot stehen der **Anbieter**, eine kurze **Beschreibung**, der **Preis** und die **Tags** des Grundstücks. Beim Preis siehst du außerdem, ob es sich um einen **Festpreis** handelt oder ob der Preis **verhandelbar** ist.
+Im Hauptmenü siehst du alle aktuellen Angebote. Auf jedem Angebot stehen der **Anbieter**, eine kurze **Beschreibung**, der **Preis**, die **Tags** und die **Größe**. Die Größe gibt an, aus wie vielen Grundstücken ein [Merge](mergen.md) besteht. Hat das Grundstück einen Namen, steht er ebenfalls auf dem Angebot. Beim Preis siehst du außerdem, ob es sich um einen **Festpreis** handelt oder ob der Preis **verhandelbar** ist.
 
 * **Linksklick:** Du wirst zum Grundstück teleportiert und kannst es dir vor Ort ansehen.
-* **Rechtsklick:** Das Angebot kommt auf deine Beobachtungsliste oder wird wieder davon entfernt.
+* **Rechtsklick:** Das Angebot kommt auf deine Beobachtungsliste oder wird wieder davon entfernt. Beobachtete Angebote sind im Menü verzaubert.
 
-Deine beobachteten Angebote findest du unter „**Meine beobachteten Inserate**“. Über den **Filter** kannst du dir nur Angebote mit einem bestimmten Tag anzeigen lassen, z. B. Shop, Spawner oder Redstone.
+Deine beobachteten Angebote findest du unter „**Meine beobachteten Angebote**“. Über den **Filter** kannst du dir nur Angebote mit einem bestimmten Tag anzeigen lassen, z. B. Shop, Spawner oder Redstone. Mit „**Kein Filter**“ setzt du die Auswahl zurück.
 
-In der **Angebotshistorie** findest du alle Angebote, die in den letzten **30 Tagen** abgelaufen sind oder beendet wurden.
+In der **Angebotshistorie** findest du alle Angebote, die in den letzten **30 Tagen** abgelaufen sind oder beendet wurden. Auch dort kannst du nach Tags filtern.
 
 {% hint style="info" %}
 Gekauft wird ein Grundstück nicht direkt in der Immobilienbörse. Melde dich beim Anbieter, z. B. im Chat, und sprecht den Kauf miteinander ab. Das Grundstück überträgt der Anbieter anschließend mit `/setowner` an dich (siehe [Grundstücksrechte](grundstucksrechte.md#besitzer-andern)).
@@ -29,13 +29,13 @@ Gekauft wird ein Grundstück nicht direkt in der Immobilienbörse. Melde dich be
 2. Die **ID** deines Grundstücks im Chat angeben, z. B. `45;22`. Die ID findest du mit `/p i` (siehe [Grundstücks-Information](../grundbefehle/grundstucks-befehle/grundstucks-information.md)).
 3. Den **Preis** festlegen und auswählen, ob er als **Festpreis** oder als **verhandelbar** angezeigt wird.
 4. Eine **Beschreibung** mit höchstens **50 Zeichen** schreiben.
-5. **1 bis 3 Tags** auswählen.
+5. **1 bis 3 Tags** auswählen und mit „**Tags übernehmen**“ bestätigen.
 6. Das Angebot erstellen und bestätigen.
 
 {% hint style="warning" %}
 * Du kannst nur Grundstücke anbieten, die dir gehören.
 * Jedes Grundstück kann nur einmal gleichzeitig angeboten werden.
-* Die Anzahl deiner aktiven Angebote ist begrenzt.
+* Die Anzahl deiner aktiven Angebote ist begrenzt. Ohne weitere Freischaltung sind es **2**.
 {% endhint %}
 
 ## Angebote verwalten
