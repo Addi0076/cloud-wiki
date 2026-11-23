@@ -69,6 +69,7 @@
   * [Einmalige Gegenstandsreparatur](funktionen/custom-items/einmalige-gegenstandsreparatur.md)
   * [Fragmente](funktionen/custom-items/fragmente.md)
   * [Geladener Blitzableiter](funktionen/custom-items/geladener-blitzableiter.md)
+  * [Geschenke einpacken](funktionen/custom-items/geschenke-einpacken.md)
   * [Gefängnis-frei-Karte](funktionen/custom-items/gefaengnis-frei-karte.md)
   * [Gegenstandsrettung](funktionen/features/gegenstandsrettung.md)
   * [Items mit Zufallswerten](funktionen/custom-items/items-mit-zufallswerten.md)
